@@ -11,6 +11,9 @@ https://www.oreilly.com/library/view/hands-on-data-preprocessing/9781801072137/?
 
 ![Screenshot 2023-09-14 112457](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/f2699aab-8740-41ff-a7b1-f5687abff442)
 
+![Screenshot 2023-09-14 112536](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/b7691e0e-b107-4e2c-8033-2f1129a015f9)
+
+
 ![Screenshot 2023-09-14 113329](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/852cf32a-adc6-4090-9eab-4ec56678648d)
 
 
