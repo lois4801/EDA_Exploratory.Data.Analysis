@@ -7,6 +7,13 @@ https://www.oreilly.com/library/view/hands-on-data-preprocessing/9781801072137/?
 
 ---------------------------------------------------------------------------
 
+![Screenshot 2023-09-14 111948](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/cbc629df-afa6-4a04-a7f9-7fc2a52963b6)
+
+![Screenshot 2023-09-14 112457](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/f2699aab-8740-41ff-a7b1-f5687abff442)
+
+![Screenshot 2023-09-14 113329](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/852cf32a-adc6-4090-9eab-4ec56678648d)
+
+
 **Exploratory Data Analysis (EDA)** is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. Here are the steps involved in EDA:
 
 1. Data Collection: This is the first step where you gather the data from various sources.
@@ -78,7 +85,21 @@ Effectivitiy depends on the specific scenario and what you’re trying to achiev
 For example, if you’re trying to understand the distribution of a single variable, univariate graphical or non-graphical might be most effective. If you’re trying to understand relationships between variables, multivariate graphical or non-graphical might be more appropriate.
 
 It’s also worth noting that these types are not mutually exclusive and can be used in combination during an EDA process. The key is to choose the right approach based on your data and your analysis goals.
+
+![Screenshot 2023-09-14 113504](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/b208fb1d-9334-44fe-a3a5-5b0569b3c895)
+
+
+
+![Screenshot 2023-09-14 192054](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/ada99479-5235-4d98-b615-e30a7d754cbb)
+
+
 -------------------------------------------------------
+
+
+
+
+
+
 Readings
 https://medium.com/analytics-vidhya/a-practical-guide-to-exploratory-data-analysis-eda-in-python-how-to-start-any-data-analysis-3fd200516553
 
