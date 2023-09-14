@@ -92,7 +92,7 @@ It’s also worth noting that these types are not mutually exclusive and can be 
 
 ![Screenshot 2023-09-14 192054](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/ada99479-5235-4d98-b615-e30a7d754cbb)
 
-
+Skweness and kurtosis - https://www.analyticsvidhya.com/blog/2021/05/shape-of-data-skewness-and-kurtosis/
 -------------------------------------------------------
 
 
