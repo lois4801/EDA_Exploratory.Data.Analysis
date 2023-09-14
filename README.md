@@ -29,6 +29,8 @@ https://www.oreilly.com/library/view/hands-on-data-preprocessing/9781801072137/?
 
 5. Data Visualization: This involves presenting your data in a visual format like graphs, charts etc., to understand the patterns, trends and insights in the data.
 
+![Screenshot 2023-09-14 202956](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/d8c63bbe-2c6d-4a28-b645-aeb7c46cc1b2)
+
 ------------------------------------------------------------------------
 ## During EDA, data practitioners may:
 
