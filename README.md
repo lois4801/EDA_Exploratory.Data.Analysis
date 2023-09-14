@@ -88,6 +88,8 @@ It’s also worth noting that these types are not mutually exclusive and can be 
 
 ![Screenshot 2023-09-14 113504](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/b208fb1d-9334-44fe-a3a5-5b0569b3c895)
 
+![Screenshot 2023-09-14 114539](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/37f463e7-fc2e-4d13-9974-316424db4319)
+
 
 ![Screenshot 2023-09-14 192054](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/ada99479-5235-4d98-b615-e30a7d754cbb)
 
