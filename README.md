@@ -13,12 +13,6 @@ https://www.oreilly.com/library/view/hands-on-data-preprocessing/9781801072137/?
 
 ![Screenshot 2023-09-14 113329](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/852cf32a-adc6-4090-9eab-4ec56678648d)
 
-![Screenshot 2023-09-14 193834](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/2dbe9f43-d4db-4218-bd1b-9d79c18d2e3d)
-
-![Screenshot 2023-09-14 194107](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/fcde6c0f-035b-4d66-9a06-567536e39a0c)
-
-![Screenshot 2023-09-14 194051](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/89cab00e-4477-42b5-a30e-f67fa2355892)
-
 
 **Exploratory Data Analysis (EDA)** is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. Here are the steps involved in EDA:
 
@@ -95,8 +89,13 @@ It’s also worth noting that these types are not mutually exclusive and can be 
 ![Screenshot 2023-09-14 113504](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/b208fb1d-9334-44fe-a3a5-5b0569b3c895)
 
 
-
 ![Screenshot 2023-09-14 192054](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/ada99479-5235-4d98-b615-e30a7d754cbb)
+
+![Screenshot 2023-09-14 193834](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/2dbe9f43-d4db-4218-bd1b-9d79c18d2e3d)
+
+![Screenshot 2023-09-14 194107](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/fcde6c0f-035b-4d66-9a06-567536e39a0c)
+
+![Screenshot 2023-09-14 194051](https://github.com/lois4801/EDA_Exploratory.Data.Analysis/assets/96842662/89cab00e-4477-42b5-a30e-f67fa2355892)
 
 Skweness and kurtosis - https://www.analyticsvidhya.com/blog/2021/05/shape-of-data-skewness-and-kurtosis/
 -------------------------------------------------------
