@@ -1,5 +1,12 @@
 # EDA_Exploratory.Data.Analysis
 
+## Good books
+https://www.oreilly.com/library/view/hands-on-exploratory-data/9781789537253/
+
+https://www.oreilly.com/library/view/hands-on-data-preprocessing/9781801072137/?_gl=1*4o17pe*_ga*MTY2NDExODYzOC4xNjk0NzE5MjM3*_ga_092EL089CH*MTY5NDcxOTIzNy4xLjEuMTY5NDcxOTM2NC42MC4wLjA.
+
+
+
 Exploratory Data Analysis (EDA) is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. Here are the steps involved in EDA:
 
 1. Data Collection: This is the first step where you gather the data from various sources.
